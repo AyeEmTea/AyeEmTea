@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @AyeEmTea
-- 👀 I’m interested in:
-        1. Competetive Programming
-        2. Software Development
-- 🌱 I’m currently working in Computer Vision Domain
+
 
 
 <!---
